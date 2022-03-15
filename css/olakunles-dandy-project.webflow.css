@@ -1563,6 +1563,8 @@ html.w-mod-js *[data-ix="load-up"] {
 
   .wrapper-title {
     width: 100vw;
+    top: -40px;
+    position: relative;
   }
 
   .vertical {
